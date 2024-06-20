@@ -49,7 +49,7 @@ Bachelor's degree in Information Systems with over 10 years of experience design
 
 *Client: Brooks Running (USA)* 
  
-Working exclusively for one client account, I led a team of 3 QA professionals that were part of an internal development team, while also collaborating with the client's QA team. 
+Working exclusively for one client account, I led a team of 3 QA professionals that were part of an internal development team specialized in SFCC testing and development, while also collaborating with the client's QA team. 
 My main tasks and responsibilities: 
 
 **Requirements Analysis and Test Planning:**
