@@ -16,13 +16,15 @@ Bachelor's degree in Information Systems with over 10 years of experience design
 
 **Test Automation:** Selenium, Cucumber, Jenkins, WebdriverIO, Postman, UFT (QTP) 
 
-**Testing Methodologies:** Black Box Testing, Regression Testing, Smoke Testing, Manual Testing 
+**Testing Methodologies:** Black Box Testing, Regression Testing, Smoke Testing, Manual Testing, End-to-End Testing 
 
 **Bug Tracking Tools:** Jira, Quality Center 
 
 **Database Skills:** SQL queries 
 
 **Project Management Tools:** Confluence 
+
+**Others:** Salesforce Commerce Cloud (SFCC)
  
 ### Soft Skills: 
 
