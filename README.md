@@ -52,27 +52,14 @@ Bachelor's degree in Information Systems with over 10 years of experience design
 Working exclusively for one client account, I led a team of 3 QA professionals that were part of an internal development team specialized in SFCC testing and development, while also collaborating with the client's QA team. 
 My main tasks and responsibilities: 
 
-**Requirements Analysis and Test Planning:**
-- Analyzed and clarified software testable requirements, identifying gaps and inconsistencies, ensuring project alignment; 
-- Developed comprehensive testing programs and strategies (plans, cases, suites) to effectively evaluate software functionality; 
-- Identified and reported estimation gaps during the discovery phase, contributing to improved project planning. 
-
-**Test Execution and Defect Management:** 
-- Implemented black box tests across various requirements and environments; 
-- Logged test results meticulously within the bug tracking system (Jira), maintaining clear traceability; 
-- Replicated and diagnosed software issues, adding relevant data and context information, and retesting to ensure resolution; 
-
-**Quality Assurance and Optimization:** 
-- Participated actively in product design reviews, providing valuable insights on functional requirements, schedules, and potential risks 
-- Proposed diverse optimizations and preventative tests to minimize software defects and enhance user experience; 
-- Implemented continuous testing activities to maintain software quality throughout the development lifecycle; 
-- Conducted comprehensive regression testing after sprints based on critical areas, contributing to smooth project closure. 
- 
-**Project Management and Collaboration:** 
-- Supported project management through accurate estimates, scope decomposition, and release monitoring; 
-- Maintained clear and consistent communication with the client, engaging in daily meetings with the client to discuss project progress and address any concerns; 
-- Provided demo presentations to the client for new features and considerable updates to the application; 
-- Collaborated with the development team to identify and address recurring issues identified by the QA team, proactively implementing preventative measures. 
+- Analyzed requirements, designed test plans (including cases and suites), and identified/reported gaps for project alignment. 
+- Led a team of 3 QA testers, providing ongoing communication, progress updates, troubleshooting assistance, and incorporating their valuable feedback. 
+- Executed black-box tests across requirements and environments, meticulously logging bugs and results in Jira for clear traceability. 
+- Replicated, diagnosed, and retested software issues to ensure resolution. 
+- Participated in product design reviews, proposed optimizations, and implemented continuous testing for high-quality software. 
+- Conducted comprehensive regression testing to support smooth project closure. 
+- Supported project management with accurate estimates, clear communication with clients, and demo presentations. 
+- Collaborated with developers to address recurring issues and implement preventative measures. 
 
 **QA Test Automation Analyst, ADP** 
 *September 2018 – September 2021 (3 years 1 month)* 
