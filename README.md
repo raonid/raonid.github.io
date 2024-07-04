@@ -70,14 +70,17 @@ QA professional with 12+ years of experience in software testing, including lead
 
 ### Education 
 
-**Bachelor of Information Systems degree**,
+**Bachelor of Information Systems degree**
+
 *2006 – 2013* 
+
 Unifra - Centro Universitário Franciscano, Santa Maria/RS - Brazil 
  
 **Certification: Android Basics Nanodegree by Google**
+
 *June 2018* 
-Udacity
-Certificate: https://confirm.udacity.com/QN9CLD5L 
+
+Udacity – Certificate: https://confirm.udacity.com/QN9CLD5L 
  
 ### Languages 
 
