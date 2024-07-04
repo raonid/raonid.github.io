@@ -21,8 +21,11 @@ QA professional with 12+ years of experience in software testing, including lead
 ### EXPERIENCES 
 
 **QA Team Leader, OSF Digital** 
+
 *OSF Digital - Montréal, QC*
+
 *October 2021 – February 2024 (2 years 5 months)*
+
 
 - Led a team of 3 QA testers in a demanding project (Salesforce) with shifting requirements.  
 - Delivered clear demo presentations to stakeholders.  
@@ -32,8 +35,11 @@ QA professional with 12+ years of experience in software testing, including lead
 
 
 **QA Test Automation Analyst**
+
 *Automatic Data Processing, Inc (ADP) - Porto Alegre, Brazil*
+
 *September 2018 – September 2021 (3 years 1 month)* 
+
  
 - Created and maintained automated tests using Protractor and Cucumber for an Angular app.  
 - Created a new E2E test suite using WebdriverIO (JavaScript) and Postman for a React app.  
@@ -42,15 +48,21 @@ QA professional with 12+ years of experience in software testing, including lead
 - Collaborated with the development team through meetings, documentation, and presentation of test improvements.   
  
 **QA Analyst**
+
 *Stefanini - Porto Alegre, Brazil*
+
 *July 2018 – August 2018 (2 months)* 
+
 
 - Executed manual regression testing in a web application.  
 - Updated test cases where applicable.
  
 **QA Test Automation Analyst**
+
 *e-Core - Porto Alegre, Brazil*
+
 *August 2011 – October 2017 (6 years 3 months)* 
+
 
 - Developed, maintained and executed automated test scripts using UFT (VBScript), Selenium and TestNG (Java).  
 - Identified, reported, and tracked defects in Quality Center and Jira.  
@@ -59,8 +71,11 @@ QA professional with 12+ years of experience in software testing, including lead
 - Contributed to daily remote meetings in a cross-country agile QA team.  
  
 **QA Analyst**
+
 *Stefanini – Porto Alegre, Brazil*
+
 *November 2010 – August 2011 (10 months)* 
+
 
 - Executed manual tests on a client's web-based system.  
 - Identified, reported, and tracked application's defects in Quality Center.  
